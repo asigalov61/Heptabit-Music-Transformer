@@ -2,7 +2,7 @@
 
 ***
 
-### Model was trained on full Los Angeles MIDI Dataset (245k MIDIs) for 52 hours @ 4 batches on 1 H100 GPU
+### Model was trained on full Los Angeles MIDI Dataset (245k MIDIs) for 52 hours @ 4 batches on a single H100 GPU
 
 ***
 
