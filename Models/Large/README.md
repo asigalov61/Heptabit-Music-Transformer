@@ -2,5 +2,9 @@
 
 ***
 
+### Model was trained on full Los Angeles MIDI Dataset (245k MIDIs) for 52 hours @ 4 batches on 1 H100 GPU
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2023
