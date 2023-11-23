@@ -5,6 +5,10 @@
 
 ***
 
+## UPDATE 11/22/2023 Heptabit Music Transformer had been depreciated in favor of [Giant Music Transformer](https://github.com/asigalov61/Giant-Music-Transformer)
+
+***
+
 ## Original Version
 
 [![Open In Colab][colab-badge]][colab-notebook2]
